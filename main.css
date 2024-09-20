@@ -1,0 +1,17 @@
+body {
+    background-color:rgb(251, 242, 225);
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    font-family: 'Lucida Sans';
+    color: #ffbf10;
+}
+em {
+    color: rgb(86, 68, 46);
+    font-size: large;
+}
+h2 {
+    font-family: 'Lucida Sans';
+    color: #ffbf10;
+}
